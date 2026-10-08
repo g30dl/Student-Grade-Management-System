@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="/home/geovanny/Projects/Software2/Student-Grade-Management-System/src/main/java/Student.java">
+<error line="14" column="34" severity="warning" message="&apos;,&apos; no está seguido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+</file>
+<file name="/home/geovanny/Projects/Software2/Student-Grade-Management-System/src/main/java/Main.java">
+</file>
+</checkstyle>
